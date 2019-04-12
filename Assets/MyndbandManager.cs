@@ -96,7 +96,6 @@ public class MyndbandManager : MonoBehaviour
 
     public OnMyndbandStateChanged onMyndbandStateChanged;
 
-    private TGCConnectionController controller;
 
     private bool isLogging = false;
 
